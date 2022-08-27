@@ -5,6 +5,9 @@ Adapted from Computer Networking: A Top-Down
 Approach 8th Edition.  All material copyright 1996-
 2020 J.F Kurose and K.W. Ross, All Rights Reserved  
 
+[Boox Excercizes](https://gaia.cs.umass.edu/kurose_ross/interactive/):
+https://gaia.cs.umass.edu/kurose_ross/interactive/
+
 [<img src = "https://github.com/jlursenbach/CSUF-MATH-320-MATHEMATICAL-COMPUTATION-NOTES/blob/main/data/CPSC%20320%20card.jpg" width = "600">](https://github.com/jlursenbach/CSUF-MATH-320-MATHEMATICAL-COMPUTATION-NOTES/blob/main/data/CPSC%20320%20card.jpg)
 
 
