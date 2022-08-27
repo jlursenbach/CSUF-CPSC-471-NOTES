@@ -1,5 +1,5 @@
 # CSUF-CPSC-471-NOTES
-### [Syllabus](https://github.com/jlursenbach/CSUF-MATH-320/blob/main/data/Syllabus320Fall2022.pdf)
+### [Syllabus](https://github.com/jlursenbach/CSUF-CPSC-471-NOTES/blob/main/CPSC471-04%2013740%20Fri%20700pm-945pm%20Fall%202022%20Syllabus.pdf)
 Book:   
 Adapted from Computer Networking: A Top-Down 
 Approach 8th Edition.  All material copyright 1996-
